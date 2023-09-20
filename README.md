@@ -75,10 +75,6 @@
   <a  target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white"/>
   </a>
-    &emsp;
-  <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"/>
-  </a>
 </p>
 
 

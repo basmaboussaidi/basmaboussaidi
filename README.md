@@ -9,8 +9,6 @@
 </h1>
 
 <h3 title="hehehe"> 👋 I'm Basma!</h3>
-
-A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tunis - University of Tunis El Manar, Tunisia.
 ### Let's Connect 
 <p align="center">
 	<a href="https://github.com/basmaboussaidi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -131,17 +129,6 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
     
  </p>
 
-### 👉 Web Scraping using Python Libraries
-<p align="left">
-  &emsp;
-    <a href=""><img alt="bsoup" src="https://img.shields.io/badge/Beautiful%20Soup-Python-red"></a>
-  &emsp;
-    <a href=""><img alt="selinium" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white"></a>  
-      &emsp;
-    <a href=""><img alt="rqst" src="https://img.shields.io/badge/Requests-Python-blue"></a>  
-
- </p>
-
 ### 👉 BI tools
 <p align="left">
   &emsp;
@@ -149,35 +136,5 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
   &emsp;
     <a href=""><img alt="talend" src="https://img.shields.io/badge/Talend-OS-orange"></a>  
  </p>
-
-
- ### 👉 Software & Tools
- 
-<p>
-
-  &emsp;
-    <a href="#"><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/Codesandbox-040404?logo=codesandbox&logoColor=DBDBDB"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"></a>
-      &emsp;
-    <a href="#"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white"></a>
-</p>
 
 <br/>

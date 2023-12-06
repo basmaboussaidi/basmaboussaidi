@@ -13,7 +13,6 @@
 <p align="center">
 	<a href="https://github.com/basmaboussaidi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/boussaidi-basma-a43936199/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/bessa98/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
 </p>
 
 
@@ -108,27 +107,10 @@
 
  </p>
 
-### 👉 Machine learning using Python Libraries
-<p align="left">
-  &emsp;
-    <a href=""><img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-  &emsp;
-    <a href=""><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>  
-     &emsp;
-    <a href=""><img alt="nltk" src="https://img.shields.io/badge/NLTK-Python-blue"></a>  
-      &emsp;
-    <a href=""><img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>  
-      &emsp;
-    <a href=""><img alt="matplot" src="https://img.shields.io/badge/Matplotlib-Python-red"></a>  
-      &emsp;
-    <a href=""><img alt="gnsim" src="https://img.shields.io/badge/Gensim-Python-blue"></a>  
-    
- </p>
-
 ### 👉 BI tools
 <p align="left">
   &emsp;
-    <a href=""><img alt="tableau" src="https://img.shields.io/badge/Tableau-Software-blue"></a>
+    <a href=""><img alt="power bi" src="https://img.shields.io/badge/PowerBI-Software-blue"></a>
   &emsp;
     <a href=""><img alt="talend" src="https://img.shields.io/badge/Talend-OS-orange"></a>  
  </p>
